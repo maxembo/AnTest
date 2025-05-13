@@ -1,0 +1,965 @@
+fileFormatVersion: 2
+guid: f53994737144f164785cc49ca8a361db
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: SL_Bath
+    100002: SL_Bath_Curtain
+    100004: SL_BathFurniture
+    100006: SL_BathFurniture_Small
+    100008: SL_BathMirror
+    100010: SL_Bedroom
+    100012: SL_BedroomCarpet
+    100014: SL_BedroomCurtains_1
+    100016: SL_BedroomCurtains_2
+    100018: SL_BedroomFloorMirror
+    100020: SL_BedroomFlowers_001
+    100022: SL_BedroomFlowers_002
+    100024: SL_BedroomFurniture
+    100026: SL_BedroomGlass
+    100028: SL_BedroomMirror
+    100030: SL_BedroomSmallFurniture
+    100032: SL_BedroomVases
+    100034: SL_Cap
+    100036: SL_Corridor
+    100038: SL_CorridorFlowers
+    100040: SL_CorridorFurniture
+    100042: SL_CorridorMirror
+    100044: SL_CorridorVase
+    100046: SL_Doors
+    100048: SL_DoorsFrames
+    100050: SL_Exterior_Outinterior
+    100052: SL_ExteriorGlass
+    100054: SL_KinchenFurnitureGlasses
+    100056: SL_KinchenSmallFurniture
+    100058: SL_KitchenCurtains_1
+    100060: SL_KitchenCurtains_2
+    100062: SL_kitchenFlowers_001
+    100064: SL_kitchenFlowers_002
+    100066: SL_KitchenFurniture
+    100068: SL_KitchenGlass
+    100070: SL_Kitchenroom
+    100072: SL_KitchenVases
+    100074: SL_Livingroom
+    100076: SL_LivingroomCarpet
+    100078: SL_LivingroomCurtains_1
+    100080: SL_LivingroomCurtains_2
+    100082: SL_LivingroomFurniture
+    100084: SL_LivingroomGlass
+    100086: SL_LivingroomPictures
+    100088: SL_LivingroomPicturesGlass
+    100090: SL_LivingroomPlants
+    100092: SL_LivingroomSmallFurniture
+    100094: SL_Loggia
+    100096: SL_LoggiaGlass
+    100098: SL_MainDoorKnob
+    100100: SL_Pictures_005
+    100102: SL_Slice
+    100104: SL_TV1_55inch
+    100106: SL_TV1_55inch_Screen
+    100108: SL_TV1_65inch
+    100110: SL_TV1_65inch_Screen
+    100112: SL_Watermixer
+    100114: //RootNode
+    100116: _SwedenLight
+    100118: SL_Bedroom_CupboardMirror
+    100120: SL_Corridor_CupboardMirror
+    400000: SL_Bath
+    400002: SL_Bath_Curtain
+    400004: SL_BathFurniture
+    400006: SL_BathFurniture_Small
+    400008: SL_BathMirror
+    400010: SL_Bedroom
+    400012: SL_BedroomCarpet
+    400014: SL_BedroomCurtains_1
+    400016: SL_BedroomCurtains_2
+    400018: SL_BedroomFloorMirror
+    400020: SL_BedroomFlowers_001
+    400022: SL_BedroomFlowers_002
+    400024: SL_BedroomFurniture
+    400026: SL_BedroomGlass
+    400028: SL_BedroomMirror
+    400030: SL_BedroomSmallFurniture
+    400032: SL_BedroomVases
+    400034: SL_Cap
+    400036: SL_Corridor
+    400038: SL_CorridorFlowers
+    400040: SL_CorridorFurniture
+    400042: SL_CorridorMirror
+    400044: SL_CorridorVase
+    400046: SL_Doors
+    400048: SL_DoorsFrames
+    400050: SL_Exterior_Outinterior
+    400052: SL_ExteriorGlass
+    400054: SL_KinchenFurnitureGlasses
+    400056: SL_KinchenSmallFurniture
+    400058: SL_KitchenCurtains_1
+    400060: SL_KitchenCurtains_2
+    400062: SL_kitchenFlowers_001
+    400064: SL_kitchenFlowers_002
+    400066: SL_KitchenFurniture
+    400068: SL_KitchenGlass
+    400070: SL_Kitchenroom
+    400072: SL_KitchenVases
+    400074: SL_Livingroom
+    400076: SL_LivingroomCarpet
+    400078: SL_LivingroomCurtains_1
+    400080: SL_LivingroomCurtains_2
+    400082: SL_LivingroomFurniture
+    400084: SL_LivingroomGlass
+    400086: SL_LivingroomPictures
+    400088: SL_LivingroomPicturesGlass
+    400090: SL_LivingroomPlants
+    400092: SL_LivingroomSmallFurniture
+    400094: SL_Loggia
+    400096: SL_LoggiaGlass
+    400098: SL_MainDoorKnob
+    400100: SL_Pictures_005
+    400102: SL_Slice
+    400104: SL_TV1_55inch
+    400106: SL_TV1_55inch_Screen
+    400108: SL_TV1_65inch
+    400110: SL_TV1_65inch_Screen
+    400112: SL_Watermixer
+    400114: //RootNode
+    400116: _SwedenLight
+    400118: SL_Bedroom_CupboardMirror
+    400120: SL_Corridor_CupboardMirror
+    2100000: Carpet_003
+    2100002: Carpet_004
+    2100004: GlassesInteriors
+    2100006: Mirror
+    2100008: S_KitchenCountertop
+    2100010: KitchenEquipment
+    2100012: CeramicTiles_002
+    2100014: MetalGreyMatt
+    2100016: SteelMatt
+    2100018: Kitchen_002
+    2100020: KitchenSilk
+    2100022: Wood_005
+    2100024: Fabric_015
+    2100026: Chorme
+    2100028: YellowMetalPainted
+    2100030: YellowPlastic_001
+    2100032: Leather_003
+    2100034: Watermixer_001
+    2100036: Wood_002
+    2100038: BedSheet_001
+    2100040: Pillows_001
+    2100042: Blanket_002
+    2100044: WhitePlastic
+    2100046: Fabric_016
+    2100048: Wood_006
+    2100050: Wood_001
+    2100052: Wood_003
+    2100054: WhiteGlassPainted
+    2100056: LampShade_001
+    2100058: SL_Pictures_001
+    2100060: GlassTransparent
+    2100062: WhiteMetal
+    2100064: BlackPlastic
+    2100066: YellowPlastic_002
+    2100068: Fabric_001
+    2100070: BlackPlasticGlossy
+    2100072: Fabric_008
+    2100074: Fabric_007
+    2100076: DL_InnerDoorsFrames
+    2100078: MetalBlackMatt
+    2100080: Brass
+    2100082: Fabric_018
+    2100084: interior_plants_1
+    2100086: yellow_pot
+    2100088: DishesCeramic_001
+    2100090: DishesCeramic_002
+    2100092: WhiteWalls_003
+    2100094: Corners
+    2100096: Plinth
+    2100098: CeramicTiles_004
+    2100100: Int_WhitePlastic
+    2100102: WindowsFrames
+    2100104: WindowsMetal
+    2100106: YellowWalls_001
+    2100108: Laminate_002
+    2100110: ProfileTransit_001
+    2100112: MainDoor
+    2100114: DoucheWatermixerDots_001
+    2100116: BlackGlassOpaque
+    2100118: DoucheWatermixerHose_001
+    2100120: ToiletPaper
+    2100122: Sink_001
+    2100124: ToiletButton
+    2100126: RedPlastic
+    2100128: BathCeramic
+    2100130: BathMetal
+    2100132: Washstand_001
+    2100134: Waschmaschine
+    2100136: CeramicTiles_005
+    2100138: TV_Screen_001
+    2100140: TV_001
+    2100142: bath_Curtain
+    2100144: Notebook_001
+    2100146: Vase_002
+    2100148: Books_9
+    2100150: Books_2
+    2100152: Books_6
+    2100154: Books_3
+    2100156: OpenBook_1
+    2100158: interior_plants_2
+    2100160: interior_plants_3
+    2100162: Books_1
+    2100164: Books_8
+    2100166: Books_7
+    2100168: Books_5
+    2100170: Books_10
+    2100172: CanbleWax
+    2100174: CandleWick
+    2100176: DL_Pictures_003
+    2100178: GlassesExteriors
+    2100180: Slice
+    2100182: ExteriorSill
+    2100184: Plastic_FasadTile_03_RAL9016
+    2100186: Plaster_RAL9004
+    2100188: OutInteriors
+    2300000: SL_Bath
+    2300002: SL_Bath_Curtain
+    2300004: SL_BathFurniture
+    2300006: SL_BathFurniture_Small
+    2300008: SL_BathMirror
+    2300010: SL_Bedroom
+    2300012: SL_BedroomCarpet
+    2300014: SL_BedroomCurtains_1
+    2300016: SL_BedroomCurtains_2
+    2300018: SL_BedroomFloorMirror
+    2300020: SL_BedroomFlowers_001
+    2300022: SL_BedroomFlowers_002
+    2300024: SL_BedroomFurniture
+    2300026: SL_BedroomGlass
+    2300028: SL_BedroomMirror
+    2300030: SL_BedroomSmallFurniture
+    2300032: SL_BedroomVases
+    2300034: SL_Cap
+    2300036: SL_Corridor
+    2300038: SL_CorridorFlowers
+    2300040: SL_CorridorFurniture
+    2300042: SL_CorridorMirror
+    2300044: SL_CorridorVase
+    2300046: SL_Doors
+    2300048: SL_DoorsFrames
+    2300050: SL_Exterior_Outinterior
+    2300052: SL_ExteriorGlass
+    2300054: SL_KinchenFurnitureGlasses
+    2300056: SL_KinchenSmallFurniture
+    2300058: SL_KitchenCurtains_1
+    2300060: SL_KitchenCurtains_2
+    2300062: SL_kitchenFlowers_001
+    2300064: SL_kitchenFlowers_002
+    2300066: SL_KitchenFurniture
+    2300068: SL_KitchenGlass
+    2300070: SL_Kitchenroom
+    2300072: SL_KitchenVases
+    2300074: SL_Livingroom
+    2300076: SL_LivingroomCarpet
+    2300078: SL_LivingroomCurtains_1
+    2300080: SL_LivingroomCurtains_2
+    2300082: SL_LivingroomFurniture
+    2300084: SL_LivingroomGlass
+    2300086: SL_LivingroomPictures
+    2300088: SL_LivingroomPicturesGlass
+    2300090: SL_LivingroomPlants
+    2300092: SL_LivingroomSmallFurniture
+    2300094: SL_Loggia
+    2300096: SL_LoggiaGlass
+    2300098: SL_MainDoorKnob
+    2300100: SL_Pictures_005
+    2300102: SL_Slice
+    2300104: SL_TV1_55inch
+    2300106: SL_TV1_55inch_Screen
+    2300108: SL_TV1_65inch
+    2300110: SL_TV1_65inch_Screen
+    2300112: SL_Watermixer
+    2300114: SL_Bedroom_CupboardMirror
+    2300116: SL_Corridor_CupboardMirror
+    3300000: SL_Bath
+    3300002: SL_Bath_Curtain
+    3300004: SL_BathFurniture
+    3300006: SL_BathFurniture_Small
+    3300008: SL_BathMirror
+    3300010: SL_Bedroom
+    3300012: SL_BedroomCarpet
+    3300014: SL_BedroomCurtains_1
+    3300016: SL_BedroomCurtains_2
+    3300018: SL_BedroomFloorMirror
+    3300020: SL_BedroomFlowers_001
+    3300022: SL_BedroomFlowers_002
+    3300024: SL_BedroomFurniture
+    3300026: SL_BedroomGlass
+    3300028: SL_BedroomMirror
+    3300030: SL_BedroomSmallFurniture
+    3300032: SL_BedroomVases
+    3300034: SL_Cap
+    3300036: SL_Corridor
+    3300038: SL_CorridorFlowers
+    3300040: SL_CorridorFurniture
+    3300042: SL_CorridorMirror
+    3300044: SL_CorridorVase
+    3300046: SL_Doors
+    3300048: SL_DoorsFrames
+    3300050: SL_Exterior_Outinterior
+    3300052: SL_ExteriorGlass
+    3300054: SL_KinchenFurnitureGlasses
+    3300056: SL_KinchenSmallFurniture
+    3300058: SL_KitchenCurtains_1
+    3300060: SL_KitchenCurtains_2
+    3300062: SL_kitchenFlowers_001
+    3300064: SL_kitchenFlowers_002
+    3300066: SL_KitchenFurniture
+    3300068: SL_KitchenGlass
+    3300070: SL_Kitchenroom
+    3300072: SL_KitchenVases
+    3300074: SL_Livingroom
+    3300076: SL_LivingroomCarpet
+    3300078: SL_LivingroomCurtains_1
+    3300080: SL_LivingroomCurtains_2
+    3300082: SL_LivingroomFurniture
+    3300084: SL_LivingroomGlass
+    3300086: SL_LivingroomPictures
+    3300088: SL_LivingroomPicturesGlass
+    3300090: SL_LivingroomPlants
+    3300092: SL_LivingroomSmallFurniture
+    3300094: SL_Loggia
+    3300096: SL_LoggiaGlass
+    3300098: SL_MainDoorKnob
+    3300100: SL_Pictures_005
+    3300102: SL_Slice
+    3300104: SL_TV1_55inch
+    3300106: SL_TV1_55inch_Screen
+    3300108: SL_TV1_65inch
+    3300110: SL_TV1_65inch_Screen
+    3300112: SL_Watermixer
+    3300114: SL_Bedroom_CupboardMirror
+    3300116: SL_Corridor_CupboardMirror
+    4300000: SL_BedroomCarpet
+    4300002: SL_LivingroomCarpet
+    4300004: SL_BedroomGlass
+    4300006: SL_KitchenGlass
+    4300008: SL_LivingroomGlass
+    4300010: SL_LoggiaGlass
+    4300012: SL_CorridorMirror
+    4300014: SL_KitchenFurniture
+    4300016: SL_Watermixer
+    4300018: SL_BedroomFurniture
+    4300020: SL_LivingroomPictures
+    4300022: SL_LivingroomPicturesGlass
+    4300024: SL_LivingroomFurniture
+    4300026: SL_BedroomFloorMirror
+    4300028: SL_DoorsFrames
+    4300030: SL_Doors
+    4300032: SL_CorridorFurniture
+    4300034: SL_LivingroomCurtains_1
+    4300036: SL_BedroomCurtains_1
+    4300038: SL_KitchenCurtains_1
+    4300040: SL_LivingroomPlants
+    4300042: SL_KinchenSmallFurniture
+    4300044: SL_Loggia
+    4300046: SL_Livingroom
+    4300048: SL_Kitchenroom
+    4300050: SL_Corridor
+    4300052: SL_Bedroom
+    4300054: SL_MainDoorKnob
+    4300056: SL_BathFurniture_Small
+    4300058: SL_BathFurniture
+    4300060: SL_Bath
+    4300062: SL_TV1_65inch_Screen
+    4300064: SL_TV1_65inch
+    4300066: SL_TV1_55inch_Screen
+    4300068: SL_TV1_55inch
+    4300070: SL_Bath_Curtain
+    4300072: SL_BedroomSmallFurniture
+    4300074: SL_BedroomVases
+    4300076: SL_BedroomFlowers_001
+    4300078: SL_BedroomFlowers_002
+    4300080: SL_BathMirror
+    4300082: SL_KitchenVases
+    4300084: SL_kitchenFlowers_001
+    4300086: SL_kitchenFlowers_002
+    4300088: SL_CorridorVase
+    4300090: SL_CorridorFlowers
+    4300092: SL_BedroomMirror
+    4300094: SL_LivingroomSmallFurniture
+    4300096: SL_Pictures_005
+    4300098: SL_ExteriorGlass
+    4300100: SL_KinchenFurnitureGlasses
+    4300102: SL_BedroomCurtains_2
+    4300104: SL_KitchenCurtains_2
+    4300106: SL_LivingroomCurtains_2
+    4300108: SL_Slice
+    4300110: SL_Exterior_Outinterior
+    4300112: SL_Cap
+    4300114: SL_Bedroom_CupboardMirror
+    4300116: SL_Corridor_CupboardMirror
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathCeramic
+    second: {fileID: 2100000, guid: fc7e77d31df77874b8e71d6997af7ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathMetal
+    second: {fileID: 2100000, guid: 22616f7fc8dab06458d3e0dbc2353709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedSheet_001
+    second: {fileID: 2100000, guid: 40a86e3543f5ba2448b2046e0c25f7ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackGlassOpaque
+    second: {fileID: 2100000, guid: 5f3bedf75b7bc664c94a65e243a51d64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic
+    second: {fileID: 2100000, guid: c9f23051a19d4aa4eb4a9b85a2f12971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlasticGlossy
+    second: {fileID: 2100000, guid: 6c5c4bc61b5cc3c4a98763ef12cb438e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanket_002
+    second: {fileID: 2100000, guid: c988da7cd6a196e4b8147915b2527d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_1
+    second: {fileID: 2100000, guid: faf53efef5ebe7d4089dcd892f6698a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_10
+    second: {fileID: 2100000, guid: dcb7f9ee30e0673498e67d3134eb4dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_2
+    second: {fileID: 2100000, guid: 6546328c0c1143e48946a4630cc94755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_3
+    second: {fileID: 2100000, guid: e78b96d408c4f0b4ba67cea8b9a9efff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_5
+    second: {fileID: 2100000, guid: 4d2d57c27057f0d429233e2855885f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_6
+    second: {fileID: 2100000, guid: 018af4d06a0f3a743b34561bcbd87a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_7
+    second: {fileID: 2100000, guid: 537c3c34ae32e704f92e60f4da0508cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_8
+    second: {fileID: 2100000, guid: bece5010d4b61e746ac8ca9fc9b70ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_9
+    second: {fileID: 2100000, guid: 22fc77a0ee138da4ca81deb46ff0b0e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass
+    second: {fileID: 2100000, guid: 1c65609ea136da7479fd78f693dc2423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CanbleWax
+    second: {fileID: 2100000, guid: 267a6df4429eeb94db3a98dadda43a57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CandleWick
+    second: {fileID: 2100000, guid: 07111c4c60e78fe47971515754f00477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_003
+    second: {fileID: 2100000, guid: 0d40c04e8a9723844b8c248d5137efb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_004
+    second: {fileID: 2100000, guid: c2d587c166ba58c4db1da08fa3de1e93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicTiles_002
+    second: {fileID: 2100000, guid: 586d8384f11a3214bbc7d269a9207909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicTiles_004
+    second: {fileID: 2100000, guid: cc51ca5efc437374a8b96068c74ac722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicTiles_005
+    second: {fileID: 2100000, guid: 9ed3f9159f7b2eb42a8230ff25eb7a16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chorme
+    second: {fileID: 2100000, guid: e821afe411126084d8cd91b19037944f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corners
+    second: {fileID: 2100000, guid: 96d04644b519e0d4aaccdcc3c43b8bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DL_InnerDoorsFrames
+    second: {fileID: 2100000, guid: 4472de159da37e74d845b4ed060d8384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DL_Pictures_003
+    second: {fileID: 2100000, guid: 437396e91e6d153429b7d18bca739a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DishesCeramic_001
+    second: {fileID: 2100000, guid: 3ff87ee4360366940b3fa107d6cfa8d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DishesCeramic_002
+    second: {fileID: 2100000, guid: f60e861382b4772439bbcbfde667270a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoucheWatermixerDots_001
+    second: {fileID: 2100000, guid: a7c14a0a2fb635d4a9e374dd4bf3c2e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoucheWatermixerHose_001
+    second: {fileID: 2100000, guid: c4138f448a89a8c4992cd37a234c7781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExteriorSill
+    second: {fileID: 2100000, guid: 78d42a052dce123478ff7023829b6870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_001
+    second: {fileID: 2100000, guid: ed144ccc79dc52842bcc22648894f376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_007
+    second: {fileID: 2100000, guid: 62d3c02ff10a1ee45869295744dfd8d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_008
+    second: {fileID: 2100000, guid: 0bc1f5bdb5317684fa1d08516e6adaa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_015
+    second: {fileID: 2100000, guid: acea0eed38398bb4bbff7ad6c0514e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_016
+    second: {fileID: 2100000, guid: 2c5a7d3bec9dd26428f6ca4e0614471a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_018
+    second: {fileID: 2100000, guid: 20e5f84c67f9bc846a2f13d57bac777d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassTransparent
+    second: {fileID: 2100000, guid: 95bf5b101af1f734881552bdbff0a9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassesExteriors
+    second: {fileID: 2100000, guid: 47083fe365c8f314d9d37105697acaee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassesInteriors
+    second: {fileID: 2100000, guid: 95e71652031ae014b865325cd4e21f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreyPlasticGlossy
+    second: {fileID: 2100000, guid: 50ae9b5b6ca7bf048a1d192142c47427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int_WhitePlastic
+    second: {fileID: 2100000, guid: 81d052652076895448b03466a51f3a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KitchenEquipment
+    second: {fileID: 2100000, guid: f9422d96603fd3046916588ae0649db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KitchenSilk
+    second: {fileID: 2100000, guid: f0678a102d809c94c80057fb7f1a6614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_002
+    second: {fileID: 2100000, guid: 05189c1b41a2d0c4488ff8cfdecf4ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laminate_002
+    second: {fileID: 2100000, guid: a56115ef5d2389d4e82bb4eafae84a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampShade_001
+    second: {fileID: 2100000, guid: f73bed38a9ba7b840863677c13ae86b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather_003
+    second: {fileID: 2100000, guid: 1c41a0a182cd57a468f2befc01f8d09f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainDoor
+    second: {fileID: 2100000, guid: 7cdf0d394573c5e48b5c084d56518c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalBlackMatt
+    second: {fileID: 2100000, guid: bba0b9202502db9478c8190daa039d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGreyMatt
+    second: {fileID: 2100000, guid: cc48390eab6a74745ba75a70ebb78019, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: d6a9d188129a14f4f8e608a279bbd026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Notebook_001
+    second: {fileID: 2100000, guid: 916e726da4bf54f43b0d6ce599b6be3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OpenBook_1
+    second: {fileID: 2100000, guid: 0dd13b1c737d24349bcbdfcd693b7b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutInteriors
+    second: {fileID: 2100000, guid: 71794787bacda39459c0ee358d4de50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillows_001
+    second: {fileID: 2100000, guid: ea8fe98e7c3aa464a97984ed28069cae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster_RAL9004
+    second: {fileID: 2100000, guid: 611385faaccf6c34c9ecd08cc3e6371a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_FasadTile_03_RAL9016
+    second: {fileID: 2100000, guid: 8d21ea6422d10a042a32b3e5b3f7d6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plinth
+    second: {fileID: 2100000, guid: 22d9cdfe508edd44aa90d32ff723a8a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProfileTransit_001
+    second: {fileID: 2100000, guid: f134b004711dae944a9a88c850a6bbee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedPlastic
+    second: {fileID: 2100000, guid: 8934e7d0235f86e4b85e949c29b7a023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SL_Pictures_001
+    second: {fileID: 2100000, guid: 8f12301385d65ea4c993d69f44d18880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S_KitchenCountertop
+    second: {fileID: 2100000, guid: f76ce6a37807a7a468cc498674820abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sink_001
+    second: {fileID: 2100000, guid: af9b8f8b46e8c074a8a4ea438a0a0fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slice
+    second: {fileID: 2100000, guid: 674b0d4152f48d244b05f1bbd920d59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteelMatt
+    second: {fileID: 2100000, guid: 16511a90ef7f34940a2081965fcd1af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_001
+    second: {fileID: 2100000, guid: 5cb5ce1c98b342f409ec6b2ee23b6aef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_001
+    second: {fileID: 2100000, guid: 9994fc8b80538a34183620c1097c194e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToiletButton
+    second: {fileID: 2100000, guid: a6ee21b480516764fb73d1c49ccf045e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToiletPaper
+    second: {fileID: 2100000, guid: 545119bf27173db4ca3ba0176e06b2d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vase_002
+    second: {fileID: 2100000, guid: 171babe9cc54ec04d89cb1b00737681b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Waschmaschine
+    second: {fileID: 2100000, guid: a1106d7a5133d93459f2e80c40c19560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washstand_001
+    second: {fileID: 2100000, guid: 665194ba503132140a2c25ddb9d68df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Watermixer_001
+    second: {fileID: 2100000, guid: 3cbadebb57f203b4d8c0ad48d7615f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteGlassPainted
+    second: {fileID: 2100000, guid: 54b8fa2613199234fa69fc416fcde65d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteMetal
+    second: {fileID: 2100000, guid: def7508ca6e5aee4eb3c1e770f828fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePlastic
+    second: {fileID: 2100000, guid: 71990a364efbbae439d3473ebfb1d2f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteWalls_003
+    second: {fileID: 2100000, guid: d83611148a659de469c4cf14ad69784f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsFrames
+    second: {fileID: 2100000, guid: 0b5ccfd7928e4494a9b3d5d711e42648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsMetal
+    second: {fileID: 2100000, guid: 33fd953b73855684ea94356604bd0367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_001
+    second: {fileID: 2100000, guid: 196b529691092414a861c6efc4b97da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_002
+    second: {fileID: 2100000, guid: 65d6014122919e447a3f2e0eb63bc3e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_003
+    second: {fileID: 2100000, guid: fdbcb963f703f40488e55c996075070e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_005
+    second: {fileID: 2100000, guid: a9d32407b5cc47d4ca8cf43bbd2e823f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_006
+    second: {fileID: 2100000, guid: f197940f162041a458017b5ac48a0fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowMetalPainted
+    second: {fileID: 2100000, guid: ccadbd866a1b7ea40b87f9d6615dd331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowPlastic_001
+    second: {fileID: 2100000, guid: 524be9f0acf01b448a61dbf8377a3b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowPlastic_002
+    second: {fileID: 2100000, guid: ae5ad3ff861f54f478e300c77e99eace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowWalls_001
+    second: {fileID: 2100000, guid: e53a8e0ff464b2140bb20807ee49efd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bath_Curtain
+    second: {fileID: 2100000, guid: 2b71e4bfa7f0559419b337d5b3cd301c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_plants_1
+    second: {fileID: 2100000, guid: 23d827fa8dd16c54f8f26dc807fde9fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_plants_2
+    second: {fileID: 2100000, guid: 4613a5d362acbbd499bd7dc6d19a497d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_plants_3
+    second: {fileID: 2100000, guid: 45768b7a4b2e53343b0da78c182aa1a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow_pot
+    second: {fileID: 2100000, guid: cb3b49ecc5f3da94599b8b7659a053ad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
